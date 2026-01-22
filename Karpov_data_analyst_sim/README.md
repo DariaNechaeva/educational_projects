@@ -1,6 +1,7 @@
 # Data_analyst_simulator
 This repository is dedicated to data analytical practical tasks performed in a simulated environment provided by Karpov Courses.  
-The course provided simulated data for an app with feed and message section.  
+The course provided simulated data for an app with feed and message section. 
+Tasks description and conclusions can be found inside each file
 
 # Projects description
 
