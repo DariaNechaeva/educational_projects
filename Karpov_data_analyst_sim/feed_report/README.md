@@ -9,4 +9,8 @@ The feed report consists of two parts:
   
 The report contains **key metrics:** DAU, Views, Likes, CTR  
 
-The app report has key metrics for feed and messenger along with metrics plots dividing users by os, gender and age groups
+The app report has key metrics for feed and messenger along with metrics plots dividing users by os, gender and age groups  
+
+### Tech stack: Airflow, Python, SQL, Telegram API
+
+
