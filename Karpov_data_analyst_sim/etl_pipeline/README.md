@@ -9,4 +9,6 @@ The expected output of ETL pipeline is a DAG in Airflow, which will be calculate
 
 - And we write the final data with all the metrics to a separate table in ClickHouse.  
 
-- Every day, new data are added to the same table   
+- Every day, new data are added to the same table
+
+**Tech stack: Airflow, Python, SQL, Telegram API**
