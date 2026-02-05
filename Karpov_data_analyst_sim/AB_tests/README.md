@@ -35,5 +35,5 @@ To ensure a comprehensive view, the groups were compared using several technique
 
 #### Tech Stack
 Language: Python  
-Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn  
+Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Hashlib    
 Database: ClickHouse 
