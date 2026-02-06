@@ -3,7 +3,7 @@ This repository is dedicated to data analytical practical tasks performed in a s
 The cource is dedicated to start a journey in data analysis. 
 Tasks description along with project insights can be found inside each document.
 
-# Tech Stack and skills
+## Tech Stack and skills
 **Languages:** Python (Pandas, NumPy, SciPy), SQL (PostgreSQL, Window Functions).  
 **Visualization:** Tableau, Plotly, Matplotlib, Seaborn.  
 **Machine Learning:** Scikit-learn (Basic supervised/unsupervised learning).  
@@ -12,7 +12,7 @@ Tasks description along with project insights can be found inside each document.
 **Experimentation:** Designing, executing, and analyzing A/B Tests with statistical rigor.  
 **Statistical Analysis:** Hypothesis testing, probability distributions, and mathematical statistics.  
 
-# Projects description
+## Projects description
 
 | Project Name | Short description |
 | :---------------------- | :---------------------- | 
