@@ -7,9 +7,9 @@ Tasks description along with project insights can be found inside each document.
 
 | Project Name | Short description | Applied Technics | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [SQL](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/Dashboards) | Series of basic dashboards covering all the analytical needs for the app | *SQL*, *Redash*|
-| [Bank](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/AB_tests) | A/A and following A/B tests with detailed analysis and various calculation technics | *A/B-test*, *A/A-test*, *statistics* |
-| [Business metrics](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/time_series_forecast) | Project dedicated to time-series forecasting | *time series*, *orbit* |
+| [SQL](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/SQL_final.ipynb) |  Analyse the database to get info about books, publishing houses, authors, and book reviews from readers |
+| [Bank](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/bank_final.ipynb) | Analyze clients of a regional bank and identify segments of clients who tend to leave the bank. |
+| [Business metrics](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/business_metrics_analysis_final.ipynb) | Marketing analysis of Procrastinate Pro+ entertainment app | 
 | [Restaurants](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/etl_pipeline) | Automated ETL-pipeline for daily data analysis | *ETL*, *Airflow* |
 | [Statistic](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/feed_report) | Automated Daily Information Summary | *telegram-bot*, *Airflow*, *data analytics* |
 | [AB test](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/outlier_alert) | Alarm system for unusual key-metrics performance | *telegram-bot*, *Airflow*, *outliners detection* |
