@@ -16,8 +16,7 @@ Tasks description along with project insights can be found inside each document.
 | [Games analysis](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/game_analysis_final.ipynb) | Determine a potentially popular game product and plan advertising campaigns |
 | [GoFast app](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/go-fast-final.ipynb) | Analysis of users and their behaviour for a short-term scooter-renting agencey "GoFast" |
 | [Credit history](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/credit_history_final.ipynb) | Сreditworthiness evaluation |
-| [Real estate](https://github.com/DariaNechaeva/educational_projects/tree/main/Karpov_data_analyst_sim/outlier_alert) | Alarm system for unusual key-metrics performance | *telegram-bot*, *Airflow*, *outliners detection* |
-
+| [Real estate](https://github.com/DariaNechaeva/educational_projects/blob/main/yandex_data_analyst/real_estate_market_final_daria.ipynb) | In the project we determine the market value of real estate properties |
 
 
 
